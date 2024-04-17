@@ -2,7 +2,7 @@
 
 # Data Analytics Overview 📊
 
-![Data Analytics Logo](https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/logo.png)
+![Data Analytics Logo](https://www.shutterstock.com/image-vector/data-analytic-finance-chart-business-600nw-2207870831.jpg)
 
 Data analytics is the process of examining large datasets to uncover patterns, correlations, and insights that can inform decision-making and drive business outcomes. Here's an overview:
 
